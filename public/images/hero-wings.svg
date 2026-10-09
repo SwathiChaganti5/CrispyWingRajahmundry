@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 570" role="img" aria-labelledby="title">
+<title id="title">Illustration of a platter of spicy crispy chicken wings</title>
+<defs>
+ <linearGradient id="wing" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffb347"/><stop offset=".45" stop-color="#f87821"/><stop offset="1" stop-color="#a92d13"/></linearGradient>
+ <linearGradient id="plate" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#39312b"/><stop offset="1" stop-color="#151312"/></linearGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="9"/></filter>
+ <pattern id="crumb" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="4" cy="6" r="2" fill="#ffd37c"/><circle cx="13" cy="13" r="1.6" fill="#7e210e"/></pattern>
+</defs>
+<ellipse cx="354" cy="450" rx="270" ry="61" fill="#000" opacity=".45" filter="url(#shadow)"/>
+<ellipse cx="350" cy="405" rx="285" ry="105" fill="#100d0b" stroke="#514137" stroke-width="8"/>
+<ellipse cx="350" cy="390" rx="260" ry="91" fill="url(#plate)" stroke="#6a5545" stroke-width="3"/>
+<g stroke="#8f2c11" stroke-width="6" stroke-linejoin="round">
+ <path d="M190 340 C135 303 114 252 145 220 C166 198 199 208 214 240 L246 295 C273 265 304 257 327 281 C349 306 333 342 302 366 L244 408 Z" fill="url(#wing)"/>
+ <path d="M260 300 C211 253 220 201 263 181 C293 167 316 194 317 225 L326 277 C360 246 394 251 408 280 C420 308 395 339 358 356 L310 391 Z" fill="url(#wing)"/>
+ <path d="M350 331 C310 276 335 226 378 217 C412 210 428 239 423 268 L417 303 C455 280 489 291 496 321 C502 349 470 372 432 382 L383 401 Z" fill="url(#wing)"/>
+ <path d="M419 351 C396 293 429 255 469 265 C499 273 505 302 491 327 L477 351 C516 339 541 357 535 383 C528 408 497 416 463 411 L424 407 Z" fill="url(#wing)"/>
+ <path d="M202 359 C158 325 153 286 176 267 C197 249 223 268 234 292 L249 327 C273 306 298 316 302 340 C306 362 282 380 254 390 Z" fill="url(#wing)"/>
+</g>
+<g fill="url(#crumb)" opacity=".8">
+ <path d="M190 340 C135 303 114 252 145 220 C166 198 199 208 214 240 L246 295 C273 265 304 257 327 281 C349 306 333 342 302 366 L244 408 Z"/>
+ <path d="M260 300 C211 253 220 201 263 181 C293 167 316 194 317 225 L326 277 C360 246 394 251 408 280 C420 308 395 339 358 356 L310 391 Z"/>
+ <path d="M350 331 C310 276 335 226 378 217 C412 210 428 239 423 268 L417 303 C455 280 489 291 496 321 C502 349 470 372 432 382 L383 401 Z"/>
+</g>
+<g fill="none" stroke="#ffcc71" stroke-width="7" stroke-linecap="round" opacity=".85">
+ <path d="M159 241 Q182 250 195 284"/><path d="M260 211 Q286 221 291 249"/><path d="M374 243 Q394 252 390 277"/><path d="M460 290 Q479 303 470 321"/>
+</g>
+<g fill="#f7d7a0"><circle cx="190" cy="294" r="4"/><circle cx="219" cy="323" r="3"/><circle cx="284" cy="245" r="4"/><circle cx="310" cy="315" r="3"/><circle cx="393" cy="300" r="4"/><circle cx="454" cy="343" r="3"/><circle cx="480" cy="365" r="4"/><circle cx="242" cy="363" r="3"/></g>
+<g fill="#ef3b1f"><path d="M113 181 l8 18 18 8 -18 8 -8 18 -8 -18 -18 -8 18 -8z"/><path d="M535 225 l6 14 14 6 -14 6 -6 14 -6 -14 -14 -6 14 -6z"/></g>
+<g fill="#f9eee0"><circle cx="554" cy="278" r="4"/><circle cx="130" cy="315" r="3"/><circle cx="523" cy="188" r="3"/></g>
+</svg>
